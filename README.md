@@ -8,6 +8,7 @@ Skin-detection(Using GCN)
 ## Contact Information
 * qazw5741@naver.com & YangChangHee2251@gamil.com
 ## Installation Process
+* openCV
 * numpy
 * matplotlib
 * pandas
