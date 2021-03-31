@@ -54,10 +54,19 @@ Hidden dim 1 => [10], Hidden dim 2 => [15, 20, 25, 30], Hidden dim 3 => [20, 30,
 
 
 Result 
+
+
 ![1](https://user-images.githubusercontent.com/59610723/113123551-a7c96f00-924f-11eb-84b1-5ac032200988.png)
 ![2](https://user-images.githubusercontent.com/59610723/113123572-ab5cf600-924f-11eb-9ed1-ba92f9f893c5.png)
 ![3](https://user-images.githubusercontent.com/59610723/113123586-ae57e680-924f-11eb-9c20-0d20f7aff7a6.png)
 
 
 
+* Step 8. GCN Result (https://github.com/YangChangHee/SKIN_GCN/blob/main/%EB%B3%B4%EA%B3%A0%EC%84%9C/Step%208.%20GCN%20Result.ipynb)
+
+Add Visualize Function 
+
+Result (Change Imagesize [imagesize] => [180,180])
+
+![4](https://user-images.githubusercontent.com/59610723/113123899-eeb76480-924f-11eb-9e53-a1257b818a59.png)
 
