@@ -50,3 +50,14 @@ Increasing model hidden dims(2 => 3)
 
 * Step 7. GCN Result (https://github.com/YangChangHee/SKIN_GCN/blob/main/%EB%B3%B4%EA%B3%A0%EC%84%9C/Step%207.%20GCN%20Result.ipynb)
 
+Hidden dim 1 => [10], Hidden dim 2 => [15, 20, 25, 30], Hidden dim 3 => [20, 30, 40, 50]
+
+
+Result 
+![1](https://user-images.githubusercontent.com/59610723/113123551-a7c96f00-924f-11eb-84b1-5ac032200988.png)
+![2](https://user-images.githubusercontent.com/59610723/113123572-ab5cf600-924f-11eb-9ed1-ba92f9f893c5.png)
+![3](https://user-images.githubusercontent.com/59610723/113123586-ae57e680-924f-11eb-9c20-0d20f7aff7a6.png)
+
+
+
+
