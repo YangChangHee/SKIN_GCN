@@ -29,3 +29,24 @@ If you look at In[5], In[6], (making random matrix)Apply parameta
 The GPU used is the RTX-2080TI
 
 I Checked Whether Step1 and Step2 can be used properly.
+
+* Step 4. Large data make datafile (https://github.com/YangChangHee/SKIN_GCN/blob/main/Make_dataset/step%204.%20large%20data%20make%20datafile.ipynb
+
+The data we will use should be refined. So we use a new data form , .npy
+
+The back is a method of applying the loaded data to the model
+
+* Step 5. load data and model define (https://github.com/YangChangHee/SKIN_GCN/blob/main/Define_Model/step%205.%20load%20data%20and%20model%20define.ipynb)
+
+I tried increasing the model hidden dims
+
+Tqdm was used to determine how long the traing took
+
+Finally, we applied it to the general image.
+
+* Step 6. GCN deep (https://github.com/YangChangHee/SKIN_GCN/blob/main/Define_Model/step%206.%20GCN%20deep.ipynb)
+
+Increasing model hidden dims(2 => 3)
+
+* Step 7. GCN Result (https://github.com/YangChangHee/SKIN_GCN/blob/main/%EB%B3%B4%EA%B3%A0%EC%84%9C/Step%207.%20GCN%20Result.ipynb)
+
