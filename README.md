@@ -16,4 +16,16 @@ Check SFA file and make adjacency Matrix
 
 adjacency Matrix => ![adjacency Matrix](https://user-images.githubusercontent.com/59610723/113120090-2de3b680-924c-11eb-8e1f-52a20d833be8.jpg)
 
-* Step 2.
+* Step 2. make_parameta (https://github.com/YangChangHee/SKIN_GCN/blob/main/make_parameta/step%202.%20make_parameta.ipynb)
+
+I put a neighboring matrix in class
+
+Change Markdown to code to see how dimensions decrease
+
+If you look at In[5], In[6], (making random matrix)Apply parameta
+
+* Step 3. test_basic model (https://github.com/YangChangHee/SKIN_GCN/blob/main/make_parameta/step%203.%20test_basic%20model.ipynb)
+
+The GPU used is the RTX-2080TI
+
+I Checked Whether Step1 and Step2 can be used properly.
