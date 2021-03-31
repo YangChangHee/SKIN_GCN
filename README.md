@@ -9,8 +9,9 @@ Skin-detection(Using GCN)
 ## Directions for use
 * Step 1. Make_dataset (https://github.com/YangChangHee/SKIN_GCN/blob/main/Make_dataset/step%201.%20make%20dataset.ipynb) download URL send e-mail
 Check SFA file and make adjacency Matrix
+3-dimension RGB =>(Convert) 5-dimension R,G,B,Cb,Cr
 
 
 adjacency Matrix => ![adjacency Matrix](https://user-images.githubusercontent.com/59610723/113120090-2de3b680-924c-11eb-8e1f-52a20d833be8.jpg)
-* 
+
 
