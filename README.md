@@ -7,7 +7,7 @@ Skin-detection(Using GCN)
 ## Contact Information
 * qazw5741@naver.com & YangChangHee2251@gamil.com
 ## Directions for use
-* Step 1. Make_dataset (https://github.com/YangChangHee/SKIN_GCN/blob/main/Make_dataset/step%201.%20make%20dataset.ipynb) download URL send e-mail
+* Step 1. Make_dataset (https://github.com/YangChangHee/SKIN_GCN/blob/main/Make_dataset/step%201.%20make%20dataset.ipynb)
 
 Check SFA file and make adjacency Matrix
 
@@ -16,4 +16,4 @@ Check SFA file and make adjacency Matrix
 
 adjacency Matrix => ![adjacency Matrix](https://user-images.githubusercontent.com/59610723/113120090-2de3b680-924c-11eb-8e1f-52a20d833be8.jpg)
 
-
+* Step 2.
