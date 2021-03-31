@@ -1,4 +1,4 @@
-# SKIN_GCN
+# SKIN_Detection_GCN
 Skin-detection(Using GCN)
 ## Copyright / End User License
 * SFA (Skin-nonSkin dataset) - Citation : CASATI, J. P. B. ; MORAES, D. R. ; RODRIGUES, E. L. L. . SFA: A Human Skin Image Database based on FERET and AR Facial Images. In: IX Workshop de Visão Computacional, 2013, Rio de Janeiro. Anais do VIII Workshop de Visão Computacional, 2013.
